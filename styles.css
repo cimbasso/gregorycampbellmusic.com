@@ -76,3 +76,8 @@ footer {
 #resume-sections {
     text-align: left;
 }
+
+iframe {
+    max-width: 100%;
+    max-height: 100%;
+}
