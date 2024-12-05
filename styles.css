@@ -80,8 +80,14 @@ footer {
 iframe {
     max-width: 100%;
     max-height: 100%;
+    padding: 15px;
 }
 
 .about-heading {
     text-align: left;
 }
+
+.media-paragraph {
+    padding-bottom: 15px;
+}
+
